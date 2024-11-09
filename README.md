@@ -1,4 +1,4 @@
-### Hi there 👋 I am Naveen,a passionate web developer with a focus on JavaScript and frameworks like React and Next.js. With 4 years of experience in the industry, I've been involved in creating dynamic and responsive web applications.
+### Hi there 👋 I am Naveen,a passionate web developer with a focus on JavaScript and frameworks like React and Next.js. With 4 years of experience in the industry, I've been involved in creating dynamic and responsive modern web applications.
 
 ## My Expertise
 
