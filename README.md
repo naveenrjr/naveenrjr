@@ -10,7 +10,7 @@
 
 ## GitHub Journey
 
-I'm excited to return to GitHub in 2024! While I haven't been active recently, this year marks the beginning of a new chapter. Stay tuned for exciting projects, contributions, and collaborations.
+I'm excited to return to GitHub in 2025! While I haven't been active recently, this year marks the beginning of a new chapter. Stay tuned for exciting projects, contributions, and collaborations.
 
 ## Let's Connect!
 
